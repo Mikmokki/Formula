@@ -1,0 +1,51 @@
+Progress check 1.
+
+The main classes I have worked with are Formula and Track classes.
+Move method is working correctly but the grid layout needs rounding of coordinates.
+Track loads from the file but updating is not yet done.
+GUI is showing tracks.txt file correctly
+
+The biggest problem I am facing is noticing getting out of track as I have to now all
+the grid blocks that are on the route between two blocks. I have made plan for it but
+have not gotten it to work yet.
+
+I have been doing work probably around 15 hours of work.
+
+I think I am on the right pace with the project. I decided to do GUI first and skip the
+text version as I thought the GUI would be the final user interface anyways.
+
+
+Progress check 2.
+
+All my work during these two weeks are been around GUI, formula and track classes.
+I got the track saving method working so now all the fastest laps are saved and seen
+while playing. I also have win condition and checkpoints so I think the game is now
+playable. Also now I think I got the route working which was by far the hardest task
+so far. Now it should not be possible to cut through a corner. I also added penalty
+for getting out of track. I have done a lot of testing on all those methods.
+
+There have been difficult bugs and problems but I have solved them quite well so far.
+
+I have been doing work probably around 10-15 hours of work.
+
+I think I have managed to do this project with pretty good pace. Now I think I have
+intermediate level done after I make main menu with possibility to choose name for
+formula. (If there are some obvious thing missing for that criterion,
+ It would be nice to know :D ) So after that I will start thinking of possibilities to
+ make the AI.
+
+ Progress check 3.
+
+After last progress check I have made an AI class that is able to finish the track multible
+rounds without going out of track. I also did a lot of testing and got rid of some major
+bugs. Also the formula's image is turning so it is easier for players to see where the
+formula is going.
+
+I have tested that the formula can't go over the grid at all even with different tracks.
+Also now the bot is doing well. One annoying bug was that when the formula was rotating it would
+go out of the grid spot from the corners and it left pieces of formula to the field. I decided
+to crop the image to a circle shape so it would have the same size when turning and it worked.
+
+I have been doing work probably around 15 hours of work.
+
+I thing I am almost ready. Next I will start doing the main menu.
